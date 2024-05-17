@@ -1,0 +1,56 @@
+.checkout-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .billing-address-form,
+  .credit-card-form,
+  .apply-coupon-form {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  .payment-options {
+    margin-bottom: 20px;
+  }
+  
+  .payment-details {
+    margin-bottom: 20px;
+  }
+  
+  .confirm-purchase {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .confirm-purchase:hover {
+    background-color: #0056b3;
+  }
+  

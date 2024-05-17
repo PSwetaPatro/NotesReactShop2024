@@ -1,0 +1,52 @@
+.programming-details-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .programming-details-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .programming-details-container p {
+    font-size: 16px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    text-align: center; 
+  }
+  
+  .preview-button,
+  .buy-button,
+  .home-button { 
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .preview-button:hover,
+  .buy-button:hover,
+  .home-button:hover { 
+    background-color: #0056b3;
+  }
+  
+  .category-heading {
+    text-align: center;
+    margin-bottom: 20px; 
+  }
+  
+  .category-heading h1 {
+    font-size: 32px;
+    color: #333; 
+  }
+  

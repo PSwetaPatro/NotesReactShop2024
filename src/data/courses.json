@@ -1,0 +1,9 @@
+[
+    { "name": "JavaScript Basics", "price": "$19.99" },
+    { "name": "Advanced Python Programming", "price": "$24.99" },
+    { "name": "Java for Beginners", "price": "$21.99" },
+    { "name": "C++ Fundamentals", "price": "$18.99" },
+    { "name": "PHP Crash Course", "price": "$27.99" },
+    { "name": "Ruby on Rails Essentials", "price": "$24.99" }
+  ]
+  

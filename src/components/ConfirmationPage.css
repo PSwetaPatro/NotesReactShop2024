@@ -1,0 +1,32 @@
+.confirmation-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .confirmation-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-message {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .confirmation-message:last-child {
+    margin-bottom: 0;
+  }
+  
+  .confirmation-thank-you {
+    font-weight: bold;
+  }
+  
+  .confirmation-note {
+    font-style: italic;
+    color: #666;
+  }
+  
